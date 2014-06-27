@@ -1,0 +1,27 @@
+{
+  "name": "OlapicAPITest",
+  "version": "0.0.0",
+  "authors": [
+    "james89 <jrothpearl@gmail.com>"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1",
+    "fontawesome": "~4.1.0",
+    "bxslider-4": "~4.1.2",
+    "fancybox": "~2.1.5"
+  }
+}

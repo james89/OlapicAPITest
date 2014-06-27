@@ -1,0 +1,15 @@
+{
+  "name": "OlapicAPITest",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "~4.2.0",
+    "gulp": "^3.8.2",
+    "gulp-minify-css": "^0.3.5",
+    "gulp-usemin": "^0.3.5",
+    "logfmt": "^1.1.2"
+  }
+}
